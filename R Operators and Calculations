@@ -1,0 +1,9 @@
+Arithmetic operators
++
+-
+*
+/
+Logical Operators
+AND (sometimes represented as & or && in R)
+OR (sometimes represented as | or || in R)
+NOT (!)
